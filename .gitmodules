@@ -1,3 +1,6 @@
 [submodule "vue/book/vue.js实战/vue-combat-book"]
 	path = vue/book/vue.js实战/vue-combat-book
 	url = https://github.com/zyf711/vue-combat-book
+[submodule "webpack/webpack-demos-cn"]
+	path = webpack/webpack-demos-cn
+	url = https://github.com/userkang/webpack-demos-cn.git
