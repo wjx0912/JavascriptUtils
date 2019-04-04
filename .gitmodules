@@ -4,3 +4,6 @@
 [submodule "webpack/webpack-demos-cn"]
 	path = webpack/webpack-demos-cn
 	url = https://github.com/userkang/webpack-demos-cn.git
+[submodule "vue/book/vue.js项目实战/webpack-demos-cn"]
+	path = vue/book/vue.js项目实战/webpack-demos-cn
+	url = https://github.com/userkang/webpack-demos-cn.git
